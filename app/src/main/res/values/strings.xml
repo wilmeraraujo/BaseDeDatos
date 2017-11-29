@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ReservPark</string>
+    <string name="texto_busqueda">Ingresar busqueda</string>
+    <string name="texto_boton_buscar">Buscar</string>
+    <string name="texto_boton_registrar">Registrar usuario</string>
+    <string name="texto_nombres">Nombres</string>
+    <string name="texto_apellidos">Apellidos</string>
+    <string name="texto_telefono">Telefono</string>
+    <string name="texto_placa">Placa</string>
+    <string name="texto_boton_crear">Registrar usuario</string>
+    <string name="textoNombres">Nombres</string>
+    <string name="textoApellidos">Apellidos</string>
+    <string name="textoPlaca">Placa</string>
+    <string name="textoTelefono">Telefono</string>
+    <string name="texto_mg">Me gusta</string>
+    <string name="texto_usuario">Usuario</string>
+    <string name="texto_password">Password</string>
+    <string name="texto_ingresar">Ingresar</string>
+    <string name="texto_nompark">Nombre parqueadero</string>
+    <string name="texto_direccion">DIreccion</string>
+    <string name="btn_registropark">Registrar parqueadero</string>
+    <string name="texto_horarios">Horarios</string>
+    <string name="texto_cupos">Cupos</string>
+</resources>
